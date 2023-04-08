@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
  
-  public messageFromChild="";
+  public message="hello child component!!";
+  public message2="hello again";
 }

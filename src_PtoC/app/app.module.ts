@@ -2,12 +2,12 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { CTOPComponent } from './ctop/ctop.component';
+import { PTOCComponent } from './ptoc/ptoc.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    CTOPComponent
+    PTOCComponent
   ],
   imports: [
     BrowserModule
